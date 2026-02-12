@@ -1,0 +1,5 @@
+Login failed for user admin
+Warning: suspicious activity detected
+Attack attempt blocked
+Error: connection refused
+Login failed again
